@@ -5,6 +5,7 @@
 💞️ I’m looking to collaborate on open source projects, network with like-minds and ultimately form meaningful friendships.
 
 🛠 Tech Stack
+
 💻   PHP | Laravel | Javascript | Python | django
 
 🌐   HTML | CSS | Bootstrap | Node.js | ReactJS 
