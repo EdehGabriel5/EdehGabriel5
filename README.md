@@ -17,8 +17,11 @@
 📫 Connect with Me:
 
 Connect with me on 
+
 LinkedIn 👨🏻‍💻 linkedin.com/in/gabriel-edeh-2a6902184
+
 Twitter 👨🏻‍💻@EdehGabriel5
 
 Write Me an 
+
 Email 💌 edehgabriel2013@gmail.com
